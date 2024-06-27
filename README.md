@@ -1,8 +1,5 @@
 # Shopee Latin America
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
-## Problem Statement
-
 This dashboard showcases business analysis for Shopee in the Latin America market, in the countries - Brazil, Chile, Colombia and Mexico. This dashboard is created in the pages of 1.Executive Summary , 2.Sales Analysis, 3.Customer Analysis , 4.Conclusions and finally 5.Recommendations, and with an Appendix page. 
 
 In this analysis report, we aim to achieve an enhancement of Shopee customers’  experience and to recommend relevant products and thereby increasing revenue. To make an informed decision-making, we will be examining 3 years' worth of data^ (2020 - 2022) comprising of two key datasets - 1. the customer dataset and 2. the customer purchase dataset. 
